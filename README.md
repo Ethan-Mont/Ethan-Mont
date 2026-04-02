@@ -1,5 +1,5 @@
 # 💫 About Me:
-Undergraduate Student at Georgia College & State University <br>
+Seinor at Georgia College & State University -> Master of Analytics at Georgia Tech <br>
 Finding ways to bridge Data Science toolkit and Economic theory. 
 
 
